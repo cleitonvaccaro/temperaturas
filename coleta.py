@@ -6,5 +6,6 @@ def obter_dados ():
         {"dia": "Qui", "max": 29, "min": 19},
         {"dia": "sex", "max": 28, "min": 18},
         {"dia": "Sab", "max": 27, "min": 17},
+        {"dia": "Dom", "max": 26, "min": 16},
         {"dia": "Dom", "max": 26, "min": 16}
     ]
